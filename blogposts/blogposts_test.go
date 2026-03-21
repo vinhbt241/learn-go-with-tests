@@ -7,7 +7,7 @@ import (
 	"testing"
 	"testing/fstest"
 
-	blogposts "go-with-tests/reading-files"
+	"go-with-tests/blogposts"
 )
 
 type StubFailingFS struct {
